@@ -28,7 +28,7 @@ a{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: #1b1f2e;
+    background: #000000;
     font-family: var(--font-familia-logo);   
     font-size: 20px;
     color: #ffffff;
@@ -102,7 +102,7 @@ iframe#tela{
     grid-area: rodape;
     text-align: center; 
     padding: 1rem; 
-    background: #1b1f2e;
+    background: #000000;
 }
 
 
